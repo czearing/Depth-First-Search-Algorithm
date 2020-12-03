@@ -1,2 +1,2 @@
-# Depth-First-Search-Algorithm
+# Breadth-First-Search
 Created with CodeSandbox
